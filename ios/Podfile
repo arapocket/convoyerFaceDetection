@@ -34,7 +34,6 @@ target 'convoyerFaceDetection' do
   
     # react-native-maps dependencies
     pod 'react-native-maps', path: rn_maps_path
-    pod 'react-native-camera', path: '../node_modules/react-native-camera'
 
   end
   
